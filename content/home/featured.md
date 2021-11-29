@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 20 
 
 title: Featured Publications
 subtitle: ""
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: ""
+    publication_type: "2"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc

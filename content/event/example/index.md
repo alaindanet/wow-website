@@ -1,73 +1,56 @@
 ---
-title: Example Talk
+abstract: "Positive interactions between plants are common and their effects on community
+richness via environment improvement are well known. However, the effects of
+indirect facilitation by a nurse through protection against grazing on its
+associated plant community have attracted less attention, in particular
+regarding functional traits. As the characteristics of trait distribution can
+reveal selective pressure, they offer valuable information for the study of
+grazing pressure. We tested to what extent indirect facilitation affects the
+amount of trait combinations (H1), the trait dominance (H2) and the niche
+differentiation (H3) of associated communities.
 
-event: Wowchemy Conference
-event_url: https://example.org
+We set up a grazing exclusion experiment over two nurse cushion species: one
+providing indirect facilitation through grazing to its associated community and
+the other not. We measured on the associated communities three functional
+traits, which are known to vary according to grazing: LDMC, leaf thickness and
+maximum height. We assessed the amount of distinct trait combinations by
+computing the volume of the phenotypic space (H1). The variation in trait
+dominance was quantified with the kurtosis and skewness of the trait
+distributions (H2). The variation in niche differentiation was evaluated by
+using the community-wide overlap of intraspecific trait variation (H3).  
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+We did not find a significant effect of grazing or indirect facilitation on the
+volume of the phenotypic space. However, our study revealed a significant effect
+of indirect facilitation on dominance in the associated community by maintaining
+the evenness of the trait distributions (H2) and on niche differentiation by
+maintaining trait overlaps between species in grazed compared to ungrazed
+contexts (H3). The effects of indirect facilitation were however found to depend
+on the trait considered.  Our results highlight that indirect facilitation
+promotes evenness of trait distributions and niche differentiation between
+species, suggesting that it buffers the selective pressures of grazing on plant
+communities."
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
 authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
+date: "2017-11-14T14:45:00Z"
+date_end: "2017-12-14T15:00:00Z"
+event: "Ecology Across Borders: Joint Annual Meeting 2017 (British Ecological Society)"
+event_url: "http://www.britishecologicalsociety.org/events/annual-meeting-2017/"
+location: Ghent, Belgium
 featured: false
-
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+projects:
+- facilitation-community-assembly
+publishDate: "2017-01-01T00:00:00Z"
+slides: example
+summary: "We show that indirect facilitation through grazing promotes evenness of trait
+distributions and niche differentiation between species, suggesting that it
+buffers the selective pressures of grazing on plant communities."
+tags: []
+title: Effects of indirect facilitation on functional originality, dominance and niche differentiation in tropical alpine communities
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://speakerdeck.com/alaindanet/effect-of-indirect-facilitation-through-grazing-on-plant-community-structure-in-tropical-alpine-peatlands
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
